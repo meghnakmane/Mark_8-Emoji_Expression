@@ -1,0 +1,43 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: rgb(248, 206, 213);
+  width: 100%;
+  margin: auto;
+  height: 80rem;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Caveat+Brush&display=swap");
+
+body {
+  margin: 0px;
+}
+
+h1 {
+  margin: auto;
+  padding: 3.5rem 0;
+}
+
+.input {
+  border: 0.2rem solid blue;
+  width: 60%;
+  height: 2rem;
+}
+.emoji {
+  margin: auto;
+  font-size: 2rem;
+  cursor: pointer;
+  padding: 2rem 0.5rem;
+}
+
+.emoji-line {
+  font-size: 1.5rem;
+  padding: 2rem 0rem;
+  font-family: "Caveat Brush", cursive;
+}
+.meaning {
+  font-size: 2rem;
+  margin: 1.5rem;
+  font-weight: bold;
+  color: rgb(236, 86, 106);
+}
